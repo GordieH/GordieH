@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hey there, I'm Gordie. I play around in data science and data engineering in Python and Go. I like reading, politics, and ketchup on my mac and cheese 😬
+
+I currently manage a team of data scientists and engineers at Sling TV, building personalized ribbons within the Sling TV App.
+
+Pronouns: He/Him
